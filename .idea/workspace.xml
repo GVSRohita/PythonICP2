@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f53db10b-a943-4b4f-bc32-5ec88faa40f5" name="Default Changelist" comment="" />
+    <list default="true" id="f53db10b-a943-4b4f-bc32-5ec88faa40f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icp 1/deleting and reversing the string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icp 1/python 2 and 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icp 1/replacing python with pythons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2Function_call.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icp2-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Icp 3" />
+  </component>
   <component name="ProjectId" id="1XAaGAjMRMYKQzi5sI0z1ZLX89d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +37,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICP2" />
   </component>
-  <component name="RunManager" selected="Python.icp2-3">
-    <configuration name="2Function_call" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.icp2">
+    <configuration name="deleting and reversing the string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -32,32 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Icp 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2Function_call.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="icp2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/icp2-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Icp 1/deleting and reversing the string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,11 +91,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ICP2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ICP2/icp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python 2 and 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Icp 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/icp2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Icp 1/python 2 and 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="replacing python with pythons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Icp 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Icp 1/replacing python with pythons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,10 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.icp2-3" />
-        <item itemvalue="Python.2Function_call" />
-        <item itemvalue="Python.icp2-2" />
         <item itemvalue="Python.icp2" />
+        <item itemvalue="Python.replacing python with pythons" />
+        <item itemvalue="Python.deleting and reversing the string" />
+        <item itemvalue="Python.python 2 and 3" />
+        <item itemvalue="Python.icp2-3" />
       </list>
     </recent_temporary>
   </component>
@@ -131,21 +170,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1580515139319">
+    <state x="501" y="221" key="FileChooserDialogImpl" timestamp="1580690474621">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1580515139319" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1580515139319">
+    <state x="501" y="221" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1580690474621" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1580690925057">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1580515139319" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1580515139317">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1580690925057" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1580690925057">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1580515139317" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1580515139319">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1580690925057" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1580690925057">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1580515139319" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1580690925057" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1580690925057">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1580690925057" />
+    <state x="417" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1580690388159">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="417" y="291" key="com.intellij.ide.util.TipDialog/0.0.1440.929@0.0.1440.929" timestamp="1580690388159" />
   </component>
 </project>
